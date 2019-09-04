@@ -1,0 +1,14 @@
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\PPaD_1.1.exe.config
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\PPaD_1.1.exe
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\PPaD_1.1.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\CesarChiperLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\CesarChiperLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\obj\Debug\PPaD_1.1.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\obj\Debug\PPaD_1._1.Properties.Resources.resources
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\obj\Debug\PPaD_1.1.csproj.GenerateResource.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\obj\Debug\PPaD_1.1.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\obj\Debug\PPaD_1.1.csproj.CopyComplete
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\obj\Debug\PPaD_1.1.exe
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\obj\Debug\PPaD_1.1.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\SloganChiperLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\SloganChiperLibrary.pdb
