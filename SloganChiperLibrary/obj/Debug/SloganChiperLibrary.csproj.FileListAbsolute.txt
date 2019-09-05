@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.1\SloganChiperLibrary\bin\Debug\SloganChiperLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\SloganChiperLibrary\bin\Debug\SloganChiperLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\SloganChiperLibrary\obj\Debug\SloganChiperLibrary.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\SloganChiperLibrary\obj\Debug\SloganChiperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\SloganChiperLibrary\obj\Debug\SloganChiperLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\SloganChiperLibrary\obj\Debug\SloganChiperLibrary.pdb
