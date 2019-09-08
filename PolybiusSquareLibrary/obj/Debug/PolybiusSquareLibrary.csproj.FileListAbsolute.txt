@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.1\PolybiusSquareLibrary\bin\Debug\PolybiusSquareLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\PolybiusSquareLibrary\bin\Debug\PolybiusSquareLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\PolybiusSquareLibrary\obj\Debug\PolybiusSquareLibrary.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\PolybiusSquareLibrary\obj\Debug\PolybiusSquareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\PolybiusSquareLibrary\obj\Debug\PolybiusSquareLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\PolybiusSquareLibrary\obj\Debug\PolybiusSquareLibrary.pdb

@@ -12,3 +12,9 @@ C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\obj\Debug\PPaD_1.1.exe
 C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\obj\Debug\PPaD_1.1.pdb
 C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\SloganChiperLibrary.dll
 C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\SloganChiperLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\PolybiusSquareLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\PolybiusSquareLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\PlayfeirLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\bin\Debug\PlayfeirLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\obj\Debug\PPaD_1._1.FormMain.resources
+C:\Users\Feracios\source\repos\PPaD_1.1\PPaD_1.1\obj\Debug\PPaD_1._1.FormCesar.resources

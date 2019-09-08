@@ -46,14 +46,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="FormCesar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FormCesar.Designer.cs">
+      <DependentUpon>FormCesar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormCesar.resx">
+      <DependentUpon>FormCesar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -77,9 +89,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CesarChiper\CesarChiper.csproj">
+    <ProjectReference Include="..\CesarChiper\CesarChiperLibrary.csproj">
       <Project>{A52D01B2-BB15-47E2-B62B-941F874D1173}</Project>
-      <Name>CesarChiper</Name>
+      <Name>CesarChiperLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PlayfeirLibrary\PlayfairLibrary.csproj">
+      <Project>{85662569-3014-4C0D-866F-5D44D74B0417}</Project>
+      <Name>PlayfairLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PolybiusSquareLibrary\PolybiusSquareLibrary.csproj">
+      <Project>{5F5E2D1E-2A2A-4895-BD80-C06D7BCC7036}</Project>
+      <Name>PolybiusSquareLibrary</Name>
     </ProjectReference>
     <ProjectReference Include="..\SloganChiperLibrary\SloganChiperLibrary.csproj">
       <Project>{7F4876CC-93DA-4299-86A8-0BAFA4CB245C}</Project>

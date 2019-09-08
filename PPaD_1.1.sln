@@ -5,9 +5,19 @@ VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPaD_1.1", "PPaD_1.1\PPaD_1.1.csproj", "{4E76C8F4-83F8-406E-B660-10F6502B10A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CesarChiper", "CesarChiper\CesarChiper.csproj", "{A52D01B2-BB15-47E2-B62B-941F874D1173}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CesarChiperLibrary", "CesarChiper\CesarChiperLibrary.csproj", "{A52D01B2-BB15-47E2-B62B-941F874D1173}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SloganChiperLibrary", "SloganChiperLibrary\SloganChiperLibrary.csproj", "{7F4876CC-93DA-4299-86A8-0BAFA4CB245C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolybiusSquareLibrary", "PolybiusSquareLibrary\PolybiusSquareLibrary.csproj", "{5F5E2D1E-2A2A-4895-BD80-C06D7BCC7036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayfairLibrary", "PlayfeirLibrary\PlayfairLibrary.csproj", "{85662569-3014-4C0D-866F-5D44D74B0417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereChiperLibrary", "VigenereChiperLibrary\VigenereChiperLibrary.csproj", "{87C3DC29-FB06-4D48-8867-3CD48DE66F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoalphabeticLibrary", "MonoalphabeticLibrary\MonoalphabeticLibrary.csproj", "{17593A6A-290B-4878-B702-81BFB52B4121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TritemiusChiperLibrary", "TritemiusChiperLibrary\TritemiusChiperLibrary.csproj", "{25389DF4-144C-47F1-8E68-D6E86B6906C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +37,26 @@ Global
 		{7F4876CC-93DA-4299-86A8-0BAFA4CB245C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F4876CC-93DA-4299-86A8-0BAFA4CB245C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F4876CC-93DA-4299-86A8-0BAFA4CB245C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5E2D1E-2A2A-4895-BD80-C06D7BCC7036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5E2D1E-2A2A-4895-BD80-C06D7BCC7036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5E2D1E-2A2A-4895-BD80-C06D7BCC7036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5E2D1E-2A2A-4895-BD80-C06D7BCC7036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85662569-3014-4C0D-866F-5D44D74B0417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85662569-3014-4C0D-866F-5D44D74B0417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85662569-3014-4C0D-866F-5D44D74B0417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85662569-3014-4C0D-866F-5D44D74B0417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C3DC29-FB06-4D48-8867-3CD48DE66F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C3DC29-FB06-4D48-8867-3CD48DE66F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C3DC29-FB06-4D48-8867-3CD48DE66F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C3DC29-FB06-4D48-8867-3CD48DE66F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17593A6A-290B-4878-B702-81BFB52B4121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17593A6A-290B-4878-B702-81BFB52B4121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17593A6A-290B-4878-B702-81BFB52B4121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17593A6A-290B-4878-B702-81BFB52B4121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25389DF4-144C-47F1-8E68-D6E86B6906C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25389DF4-144C-47F1-8E68-D6E86B6906C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25389DF4-144C-47F1-8E68-D6E86B6906C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25389DF4-144C-47F1-8E68-D6E86B6906C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.1\PlayfeirLibrary\bin\Debug\PlayfeirLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\PlayfeirLibrary\bin\Debug\PlayfeirLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\PlayfeirLibrary\obj\Debug\PlayfairLibrary.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\PlayfeirLibrary\obj\Debug\PlayfairLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\PlayfeirLibrary\obj\Debug\PlayfeirLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\PlayfeirLibrary\obj\Debug\PlayfeirLibrary.pdb

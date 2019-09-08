@@ -10,6 +10,10 @@ namespace CesarChiperLibrary
     {
         //символы русской азбуки
         const string alfabet = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
+        public CesarChiper()
+        {
+
+        }
         public CesarChiper(int Key)
         {
             this.Key = Key;

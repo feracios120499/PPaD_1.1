@@ -1,4 +1,6 @@
 ﻿using CesarChiperLibrary;
+using PlayfairLibrary;
+using PolybiusSquareLibrary;
 using SloganChiperLibrary;
 using System;
 using System.Collections.Generic;
@@ -18,10 +20,7 @@ namespace PPaD_1._1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-            SloganCipher chiper = new SloganCipher("ДЯДИНА");
-            MessageBox.Show(chiper.Encrypt("Абрамов"));
-            MessageBox.Show(chiper.Decrypt("Япыч ЭложчЁ"));
+            Application.Run(new FormMain());
         }
     }
 }

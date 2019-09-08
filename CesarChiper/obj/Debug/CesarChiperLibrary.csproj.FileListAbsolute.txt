@@ -1,0 +1,5 @@
+C:\Users\Feracios\source\repos\PPaD_1.1\CesarChiper\bin\Debug\CesarChiperLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\CesarChiper\bin\Debug\CesarChiperLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\CesarChiper\obj\Debug\CesarChiperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\CesarChiper\obj\Debug\CesarChiperLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\CesarChiper\obj\Debug\CesarChiperLibrary.pdb
