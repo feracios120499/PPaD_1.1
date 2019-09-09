@@ -157,12 +157,12 @@ namespace PlayfairLibrary
             return retVal;
         }
 
-        public  string Encipher(string input, string key)
+        public  string Encrypt(string input, string key)
         {
             return Cipher(input, key, true);
         }
 
-        public  string Decipher(string input, string key)
+        public  string Decrypt(string input, string key)
         {
             return Cipher(input, key, false);
         }

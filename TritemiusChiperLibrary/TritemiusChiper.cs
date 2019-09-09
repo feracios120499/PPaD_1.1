@@ -79,8 +79,8 @@ namespace TritemiusChiperLibrary
         public string Encrypt(string text, string password)
         {
             var outputText = "";
-            var square = GetSquare(password);
-
+            var square = GetSquare(password.ToUpper());
+            text = text.ToUpper();
             for (int i = 0; i < text.Length; i++)
             {
                 if (FindSymbol(square, text[i], out int columnIndex, out int rowIndex))
@@ -97,7 +97,8 @@ namespace TritemiusChiperLibrary
         public string Decrypt(string text, string password)
         {
             var outputText = "";
-            var square = GetSquare(password);
+            var square = GetSquare(password.ToUpper());
+            text = text.ToUpper();
             var m = text.Length;
 
             for (int i = 0; i < m; i++)

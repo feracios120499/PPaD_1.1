@@ -10,7 +10,6 @@ namespace SloganChiperLibrary
     {
         const string alfabet = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
         string table;
-
         public SloganCipher(string slogan)
         {
             this.Slogan = slogan ?? throw new ArgumentNullException("slogan");
@@ -25,13 +24,13 @@ namespace SloganChiperLibrary
 
         public string Encrypt(string plainMessage)
         {
+            
             if (string.IsNullOrEmpty(plainMessage)) return string.Empty;
-
+            plainMessage = plainMessage.ToUpper();
             string resultStr = string.Empty;
-            var fullAlfabet = alfabet + alfabet.ToLower();
             foreach (var letter in plainMessage)
             {
-                var index = fullAlfabet.IndexOf(letter);
+                var index = alfabet.IndexOf(letter);
                 if (index < 0)
                 {
                     //если символ не найден, то добавляем его в неизменном виде
@@ -49,9 +48,8 @@ namespace SloganChiperLibrary
         public string Decrypt(string encryptedMessage)
         {
             if (string.IsNullOrEmpty(encryptedMessage)) return string.Empty;
-
+            encryptedMessage = encryptedMessage.ToUpper();
             string resultStr = string.Empty;
-            var fullAlfabet = alfabet + alfabet.ToLower();
             foreach (var letter in encryptedMessage)
             {
                 var index = table.IndexOf(letter);
@@ -62,7 +60,7 @@ namespace SloganChiperLibrary
                 }
                 else
                 {
-                    resultStr += fullAlfabet[index];
+                    resultStr += alfabet[index];
                 }
 
             }
@@ -71,8 +69,8 @@ namespace SloganChiperLibrary
 
         private void CreateTable()
         {
-            table = String.Concat(Slogan.ToUpper().Where(IsRussianLetter).Distinct().Concat(alfabet.Except(Slogan)));
-            table += table.ToLower();
+            table = String.Concat(Slogan.ToUpper().Where(IsRussianLetter).Distinct().Concat(alfabet.Except(Slogan.ToUpper())));
+          
         }
         private bool IsRussianLetter(char character)
         {

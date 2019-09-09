@@ -30,6 +30,7 @@ namespace VigenereChiperLibrary
 
         private string Vigenere(string text, string password, bool encrypting = true)
         {
+            text = text.ToUpper();
             var gamma = GetRepeatKey(password, text.Length);
             var retValue = "";
             var q = letters.Length;

@@ -30,6 +30,12 @@ namespace PPaD_1._1
         {
             chipers.Clear();
             chipers.Add("Шифр цезаря", new FormCesar());
+            chipers.Add("Шифр слоганом", new FormSlogan());
+            chipers.Add("Шифр полибианского квадрата", new FormPolybius());
+            chipers.Add("Шифр системы Трисемуса", new FormTritemius());
+            chipers.Add("Шифр Playfair", new FormPlayfair());
+            chipers.Add("Шифр системы омофонов", new FormMono());
+            chipers.Add("Шифр Виженера", new FormVigenere());
         }
         private void ButtonStart_Click(object sender, EventArgs e)
         {

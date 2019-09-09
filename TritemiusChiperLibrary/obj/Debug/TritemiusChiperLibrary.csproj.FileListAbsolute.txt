@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.1\TritemiusChiperLibrary\bin\Debug\TritemiusChiperLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\TritemiusChiperLibrary\bin\Debug\TritemiusChiperLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\TritemiusChiperLibrary\obj\Debug\TritemiusChiperLibrary.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\TritemiusChiperLibrary\obj\Debug\TritemiusChiperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\TritemiusChiperLibrary\obj\Debug\TritemiusChiperLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\TritemiusChiperLibrary\obj\Debug\TritemiusChiperLibrary.pdb

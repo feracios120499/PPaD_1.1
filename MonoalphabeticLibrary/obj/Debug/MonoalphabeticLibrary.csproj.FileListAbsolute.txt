@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.1\MonoalphabeticLibrary\bin\Debug\MonoalphabeticLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\MonoalphabeticLibrary\bin\Debug\MonoalphabeticLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\MonoalphabeticLibrary\obj\Debug\MonoalphabeticLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\MonoalphabeticLibrary\obj\Debug\MonoalphabeticLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\MonoalphabeticLibrary\obj\Debug\MonoalphabeticLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\MonoalphabeticLibrary\obj\Debug\MonoalphabeticLibrary.csprojAssemblyReference.cache

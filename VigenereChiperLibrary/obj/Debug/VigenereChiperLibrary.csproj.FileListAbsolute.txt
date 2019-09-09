@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.1\VigenereChiperLibrary\bin\Debug\VigenereChiperLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\VigenereChiperLibrary\bin\Debug\VigenereChiperLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.1\VigenereChiperLibrary\obj\Debug\VigenereChiperLibrary.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\VigenereChiperLibrary\obj\Debug\VigenereChiperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.1\VigenereChiperLibrary\obj\Debug\VigenereChiperLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.1\VigenereChiperLibrary\obj\Debug\VigenereChiperLibrary.pdb

@@ -26,11 +26,13 @@ namespace MonoalphabeticLibrary
 
         public string Encrypt(string plainText)
         {
+            plainText = plainText.ToUpper();
             return Process(plainText, Mode.Encrypt);
         }
 
         public string Decrypt(string cipherText)
         {
+            cipherText = cipherText.ToUpper();
             return Process(cipherText, Mode.Decrypt);
         }
         private string Process(string token, Mode mode)

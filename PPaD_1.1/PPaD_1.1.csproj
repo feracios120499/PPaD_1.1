@@ -58,6 +58,42 @@
     <Compile Include="FormMain.Designer.cs">
       <DependentUpon>FormMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormMono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMono.Designer.cs">
+      <DependentUpon>FormMono.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPlayfair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPlayfair.Designer.cs">
+      <DependentUpon>FormPlayfair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPolybius.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPolybius.Designer.cs">
+      <DependentUpon>FormPolybius.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSlogan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSlogan.Designer.cs">
+      <DependentUpon>FormSlogan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTritemius.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTritemius.Designer.cs">
+      <DependentUpon>FormTritemius.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVigenere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVigenere.Designer.cs">
+      <DependentUpon>FormVigenere.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormCesar.resx">
@@ -65,6 +101,24 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMono.resx">
+      <DependentUpon>FormMono.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPlayfair.resx">
+      <DependentUpon>FormPlayfair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPolybius.resx">
+      <DependentUpon>FormPolybius.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSlogan.resx">
+      <DependentUpon>FormSlogan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTritemius.resx">
+      <DependentUpon>FormTritemius.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVigenere.resx">
+      <DependentUpon>FormVigenere.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -93,6 +147,10 @@
       <Project>{A52D01B2-BB15-47E2-B62B-941F874D1173}</Project>
       <Name>CesarChiperLibrary</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MonoalphabeticLibrary\MonoalphabeticLibrary.csproj">
+      <Project>{17593A6A-290B-4878-B702-81BFB52B4121}</Project>
+      <Name>MonoalphabeticLibrary</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PlayfeirLibrary\PlayfairLibrary.csproj">
       <Project>{85662569-3014-4C0D-866F-5D44D74B0417}</Project>
       <Name>PlayfairLibrary</Name>
@@ -104,6 +162,14 @@
     <ProjectReference Include="..\SloganChiperLibrary\SloganChiperLibrary.csproj">
       <Project>{7F4876CC-93DA-4299-86A8-0BAFA4CB245C}</Project>
       <Name>SloganChiperLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TritemiusChiperLibrary\TritemiusChiperLibrary.csproj">
+      <Project>{25389DF4-144C-47F1-8E68-D6E86B6906C3}</Project>
+      <Name>TritemiusChiperLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VigenereChiperLibrary\VigenereChiperLibrary.csproj">
+      <Project>{87C3DC29-FB06-4D48-8867-3CD48DE66F3B}</Project>
+      <Name>VigenereChiperLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
