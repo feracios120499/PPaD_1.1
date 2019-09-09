@@ -13,7 +13,7 @@ namespace MonoalphabeticLibrary
     }
     public class Monoalphabetic
     {
-        const string alphabet = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
+        const string alphabet = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ !";
         readonly Dictionary<char, char> _alphabetShuffled;
         readonly Dictionary<char, char> _alphabetShuffledReverse;
 
